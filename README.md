@@ -1,2 +1,2 @@
 # wayuohtml
-https://makarovaalona.github.io/wayuohtml/
+https://makarovaalona.github.io/wayuphtml/
